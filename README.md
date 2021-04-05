@@ -3,7 +3,7 @@ unity3d-webview-csharp
 
 ### Overview
 
-C# port of unity3d-webviw-integration sample on [unity-webview-integration](https://github.com/keijiro/unity-webview-integration).
+C# port of unity3d-webview-integration sample on [unity-webview-integration](https://github.com/keijiro/unity-webview-integration).
 
 ### Howto
 
